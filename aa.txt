@@ -4,3 +4,5 @@
 git status 红色未提交，绿色已提交暂存
 
 git diff 对比
+
+git01 推送分支f1
