@@ -6,3 +6,5 @@ git status 红色未提交，绿色已提交暂存
 git diff 对比
 
 git01 推送分支f1
+
+git01 f1 分支修改提交到服务器，git01-clone f1已于服务器f1关联，拉取到git01-clone f1
